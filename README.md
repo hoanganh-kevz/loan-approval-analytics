@@ -45,16 +45,43 @@ This project aims to answer the following questions:
   - Window Functions
   - NTILE
   - Data segmentation
+
 - **Power BI**
   - Data visualization
   - DAX
   - Slicers
   - KPI Cards
   - Interactive dashboard
+
 - **GitHub**
   - Project documentation
   - Version control
   - Portfolio
+
+---
+
+## 📂 Dataset
+
+The dataset contains information about loan applicants, including:
+
+- Credit Score
+- Annual Income
+- Loan Amount
+- Debt-to-Income Ratio
+- Employment Status
+- Education Level
+- Loan Purpose
+- Risk Score
+- Bankruptcy History
+- Loan Approval Status
+
+### Dataset Source
+
+The dataset was obtained from Kaggle:
+
+[Financial Risk for Loan Approval](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval)
+
+> The dataset is used for educational and analytical purposes.
 
 ---
 
@@ -86,7 +113,7 @@ The Power BI dashboard provides an interactive overview of loan applications and
 
 ### Dashboard Preview
 
-![Loan Approval Dashboard](screenshots/dashboard_overview.pdf)
+![Loan Approval Dashboard](screenshots/dashboard_overview.png)
 
 ### Dashboard Features
 
@@ -112,18 +139,23 @@ Power BI file:
 The analysis examines the relationship between:
 
 ### Credit Score
+
 Applicants are segmented into four credit score ranges to evaluate differences in approval rates.
 
 ### Employment Status
+
 Approval rates and financial characteristics are compared between employed, self-employed, and unemployed applicants.
 
 ### Loan Purpose
+
 Different loan purposes are analyzed based on application volume, approval rate, and average loan amount.
 
 ### Risk Score
+
 Borrowers are divided into risk segments to compare approval rate, loan amount, and credit characteristics.
 
 ### Age
+
 Borrowers are grouped into four age ranges to evaluate differences in risk profiles.
 
 Detailed insights:
@@ -153,24 +185,3 @@ loan-approval-analytics/
 │
 └── docs/
     └── insights.md
-
-
-
-## 📁 The dataset contains information about loan applicants, including:
-
-- Credit Score
-- Annual Income
-- Loan Amount
-- Debt-to-Income Ratio
-- Employment Status
-- Education Level
-- Loan Purpose
-- Risk Score
-- Bankruptcy History
-- Loan Approval Status
-
-### Dataset Source
-
-The dataset was obtained from:
-
-[Dataset Source](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?fbclid=IwY2xjawUHlsVwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXduUTRqeFdTdjRDUE5kU3lzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEepWDkzCdEJUBJ5IYbQG3hcZtQ8CbV3NiPwWKYoa_mQEKB1iO5ld7AOTO2dOQ_aem_mBRLE3TWHeixnp0JPnC49w)
