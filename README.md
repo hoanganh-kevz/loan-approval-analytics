@@ -153,3 +153,24 @@ loan-approval-analytics/
 │
 └── docs/
     └── insights.md
+
+
+
+## 📁 The dataset contains information about loan applicants, including:
+
+- Credit Score
+- Annual Income
+- Loan Amount
+- Debt-to-Income Ratio
+- Employment Status
+- Education Level
+- Loan Purpose
+- Risk Score
+- Bankruptcy History
+- Loan Approval Status
+
+### Dataset Source
+
+The dataset was obtained from:
+
+[Dataset Source](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?fbclid=IwY2xjawUHlsVwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXduUTRqeFdTdjRDUE5kU3lzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEepWDkzCdEJUBJ5IYbQG3hcZtQ8CbV3NiPwWKYoa_mQEKB1iO5ld7AOTO2dOQ_aem_mBRLE3TWHeixnp0JPnC49w)
