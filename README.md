@@ -86,7 +86,7 @@ The Power BI dashboard provides an interactive overview of loan applications and
 
 ### Dashboard Preview
 
-![Loan Approval Dashboard](screenshots/dashboard_overview.png)
+![Loan Approval Dashboard](screenshots/dashboard_overview.pdf)
 
 ### Dashboard Features
 
